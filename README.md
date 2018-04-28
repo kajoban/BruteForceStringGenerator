@@ -1,5 +1,5 @@
 # bruteForceStringGenerator
-Brute force string generation by checking each character at random. 
+Brute force string generation by checking each character against a target at random. 
 
 Results in a visually appealing animation. 
 
