@@ -25,7 +25,7 @@ def nameGen(inString):
         if(current[pos] == target[pos]):
             pos = pos + 1;
 
-        time.sleep(0.01)
+        time.sleep(0.001)
 
 
 def main():
